@@ -1,1 +1,1 @@
-# RISCV-Sim
+# RISC-V Processor Simulator - Performance Modelling
